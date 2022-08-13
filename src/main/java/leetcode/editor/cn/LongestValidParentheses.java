@@ -5,8 +5,6 @@
 // 
 // 
 // 示例 1： 
-// 
-// 
 //
 // 
 //输入：s = "(()"
@@ -37,14 +35,15 @@
 // 0 <= s.length <= 3 * 10⁴ 
 // s[i] 为 '(' 或 ')' 
 // 
-//
-// Related Topics 栈 字符串 动态规划 👍 1929 👎 0
+// 
+// 
+// Related Topics 栈 字符串 动态规划 👍 1919 👎 0
 
 
 package leetcode.editor.cn;
 
-import java.util.Deque;
 import java.util.LinkedList;
+import java.util.Stack;
 
 public class LongestValidParentheses {
 

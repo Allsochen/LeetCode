@@ -9,16 +9,16 @@
 - Install leedcode plugin
 - configurate leedcode template
 - Temp File Path
-```java
+```text
 PROJECT_GIT_REPO\src\main\java
 ```
 - Code FileName
-```java
+```text
 $!velocityTool.camelCaseName(${question.titleSlug})
 ```
 
 - Code Template
-```java
+```text
 ${question.content}
   
 package leetcode.editor.cn;
